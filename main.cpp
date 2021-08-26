@@ -22,7 +22,7 @@ int main()
                 printf("\nEl promedio de los elementos del arreglo es %.2f\n", promedioElementosArregloInt(arreglo));
                 break;
             case 0:
-                printf("\nNos vemos luego!\n");
+                printf("\nNos vemos  luego!\n");
                 break;
             default:
                 printf("\nLa opcion seleccionada es invalida, por favor seleccione otra opcion.\n");
