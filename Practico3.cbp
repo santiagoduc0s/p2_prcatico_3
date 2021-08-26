@@ -33,8 +33,11 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="array.h" />
+		<Unit filename="array.cpp" />
 		<Unit filename="boolean.cpp" />
 		<Unit filename="boolean.h" />
+		<Unit filename="menu.h" />
+		<Unit filename="menu.cpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

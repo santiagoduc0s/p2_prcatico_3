@@ -22,3 +22,23 @@
 	<conio.h>
 	<stdlib.h>
 
+1629937672 source:c:\users\admin\desktop\c++\p2_prcatico_3\boolean.cpp
+	"boolean.h"
+
+1629937672 c:\users\admin\desktop\c++\p2_prcatico_3\boolean.h
+	<stdio.h>
+
+1629938073 source:c:\users\admin\desktop\c++\p2_prcatico_3\main.cpp
+	"menu.h"
+
+1629937672 c:\users\admin\desktop\c++\p2_prcatico_3\menu.h
+	"array.h"
+	<conio.h>
+	<stdlib.h>
+
+1629937672 c:\users\admin\desktop\c++\p2_prcatico_3\array.h
+	"boolean.h"
+
+1629937672 source:c:\users\admin\desktop\c++\p2_prcatico_3\menu.cpp
+	"menu.h"
+
