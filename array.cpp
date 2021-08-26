@@ -1,5 +1,6 @@
 #include "array.h"
 
+
 void cargarArregloInt(arregloInt &arreglo)
 {
     int i;
