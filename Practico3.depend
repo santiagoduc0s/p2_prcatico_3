@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1629934562 source:c:\users\admin\desktop\c++\practico3\main.cpp
+	"menu.h"
+
+1629935843 c:\users\admin\desktop\c++\practico3\boolean.h
+	<stdio.h>
+
+1629912765 source:c:\users\admin\desktop\c++\practico3\boolean.cpp
+	"boolean.h"
+
+1629928988 c:\users\admin\desktop\c++\practico3\array.h
+	"boolean.h"
+
+1629936122 source:c:\users\admin\desktop\c++\practico3\array.cpp
+	"array.h"
+
+1629935100 source:c:\users\admin\desktop\c++\practico3\menu.cpp
+	"menu.h"
+
+1629935840 c:\users\admin\desktop\c++\practico3\menu.h
+	"array.h"
+	<conio.h>
+	<stdlib.h>
+
