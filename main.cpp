@@ -21,6 +21,9 @@ int main()
             case 4:
                 printf("\nEl promedio de los elementos del arreglo es %.2f\n", promedioElementosArregloInt(arreglo));
                 break;
+            case 5:
+                printf("prueba2");
+                break;
             case 0:
                 printf("\nNos vemos  luego!\n");
                 break;
